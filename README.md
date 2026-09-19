@@ -1,4 +1,4 @@
-::: {align="center"}
+
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F0C29,50:302B63,100:24243E&height=250&section=header&text=Rishabh%20Yadav&fontSize=64&fontColor=ffffff&fontAlignY=38&desc=AI%20%2F%20ML%20%E2%80%A2%20LLMs%20%E2%80%A2%20Software%20Engineering&descAlignY=63&descSize=18&animation=fadeIn" width="100%"/>{=html}
 
 <br>{=html}
@@ -18,7 +18,7 @@
 <br>{=html}<br>{=html}
 
 <img src="https://komarev.com/ghpvc/?username=Rishabh-Yadav&style=flat-square&color=7C3AED&label=PROFILE+VIEWS"/>{=html}
-:::
+
 
 > whoami
 
@@ -65,7 +65,6 @@ optimization, and scalable AI systems.
 
 🧠 Areas of Interest
 
-::: {align="center"}
 
 <table>
 
@@ -156,11 +155,10 @@ Kubernetes
 
 </table>
 
-:::
+
 
 ⚔️ Tech Arsenal
 
-::: {align="center"}
 
 Languages
 
@@ -189,7 +187,7 @@ Backend
 DevOps & Tools
 
 <img src="https://skillicons.dev/icons?i=docker,kubernetes,git,github,vscode,jupyter" />{=html}
-:::
+
 
 💼 Experience
 
@@ -226,7 +224,7 @@ Deep Learning AutoKeras Smart Healthcare AI
 
 🧭 What I'm Exploring Right Now
 
-::: {align="center"}
+
 
 <table>
 
@@ -284,11 +282,11 @@ iterating
 
 </table>
 
-:::
+
 
 📚 Currently Learning
 
-::: {align="center"}
+
 Large Language Models   Transformers   Computer Vision  
 Deep Learning
 
@@ -299,7 +297,7 @@ Model Optimization   ONNX Runtime   High-Performance Computing
 <br>{=html}<br>{=html}
 
 Backend Engineering   System Design   Cloud & DevOps
-:::
+
 
 📈 Engineering Philosophy
 
@@ -341,7 +339,6 @@ Databases
 
 🌐 Let's Connect
 
-::: {align="center"}
 <a href="https://github.com/Rishabh-Yadav">{=html}
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>{=html}
 </a>{=html}
@@ -357,7 +354,6 @@ Databases
 <br>{=html}<br>{=html}
 
 Building. Learning. Experimenting. Optimizing.
-:::
 
-::: {align="center"}
+
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243E,50:302B63,100:0F0C29&height=130&section=footer&animation=twinkling" width="100%"/>{=html}
