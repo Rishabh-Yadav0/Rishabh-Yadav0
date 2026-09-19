@@ -12,6 +12,10 @@
 <img src="https://img.shields.io/badge/Portfolio-7C3AED?style=for-the-badge&logo=googlechrome&logoColor=white"/>
 </a>
 &nbsp;
+<a href="https://www.linkedin.com/in/rishabh-yadav-0a3430266/">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+&nbsp;
 <a href="https://github.com/Rishabh-Yadav">
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
@@ -69,92 +73,97 @@ My current focus is on LLMs, transformers, computer vision, model optimization, 
 
 🧠 Areas of Interest
 
+# 🧠 Areas of Interest
+
 <div align="center">
 
 <table>
 <tr>
+
 <td width="50%" valign="top">
 
-🤖 Artificial Intelligence
+### 🤖 Artificial Intelligence
 
 Exploring the foundations and engineering behind intelligent systems.
 
 <br>
 
-Machine Learning
-Deep Learning
-Neural Networks
-Computer Vision
-Transfer Learning
-Model Evaluation
-Feature Extraction
-AI Automation
+`Machine Learning`  
+`Deep Learning`  
+`Neural Networks`  
+`Computer Vision`  
+`Transfer Learning`  
+`Model Evaluation`  
+`Feature Extraction`  
+`AI Automation`
 
 </td>
 
 <td width="50%" valign="top">
 
-🧠 LLMs & Transformers
+### 🧠 LLMs & Transformers
 
 Learning how modern language models work from the inside out.
 
 <br>
 
-Transformers
-Self-Attention
-Multi-Head Attention
-Tokenization
-BPE
-Embeddings
-Causal Language Modeling
-Text Generation
-Fine-Tuning
+`Transformers`  
+`Self-Attention`  
+`Multi-Head Attention`  
+`Tokenization`  
+`BPE`  
+`Embeddings`  
+`Causal Language Modeling`  
+`Text Generation`  
+`Fine-Tuning`
 
 </td>
+
 </tr>
 
 <tr>
+
 <td width="50%" valign="top">
 
-⚡ AI Inference & Optimization
+### ⚡ AI Inference & Optimization
 
 Interested in making AI systems faster and more efficient.
 
 <br>
 
-C++ Inference
-ONNX Runtime
-INT8 Quantization
-Dynamic Batching
-CPU Affinity
-Multithreading
-Model Optimization
-High-Throughput Serving
+`ONNX Runtime`  
+`Dynamic Batching`  
+`CPU Affinity`  
+`Multithreading`  
+`Model Optimization`  
+`High-Throughput Serving`
 
 </td>
 
 <td width="50%" valign="top">
 
-⚙️ Backend & Application Engineering
+### ⚙️ Backend & Application Engineering
 
 Building APIs and applications around intelligent systems.
 
 <br>
 
-Python
-Django
-Flask
-REST APIs
-SQL
-WebSockets
-Docker
-Kubernetes
+`Python`  
+`Django`  
+`Flask`  
+`REST APIs`  
+`SQL`  
+`Docker`  
+`Kubernetes`
 
 </td>
+
 </tr>
 </table>
 
 </div>
+
+---
 
 ⚔️ Tech Arsenal
 
@@ -299,48 +308,17 @@ Cloud & DevOps
 
 </div>
 
-📈 Engineering Philosophy
 
-Understand the fundamentals
-          ↓
-Build something real
-          ↓
-Measure the results
-          ↓
-Find the bottleneck
-          ↓
-Optimize
-          ↓
-Repeat
-
-I believe the best way to learn AI and software engineering is to build systems, understand why they work, measure their limitations, and improve them.
-
-🎓 Education
-
-Chandigarh University
-
-Bachelor of Engineering — Computer Science
-
-Punjab, India
-
-2022 – 2026
-
-Relevant coursework:
-
-Operating Systems
-Data Structures
-Analysis of Algorithms
-Artificial Intelligence
-Machine Learning
-Computer Networks
-Databases
-
-🌐 Let's Connect
+# 🌐 Let's Connect
 
 <div align="center">
 
 <a href="https://github.com/Rishabh-Yadav">
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+&nbsp;
+<a href="https://www.linkedin.com/in/rishabh-yadav-0a3430266/">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 &nbsp;
 <a href="https://rishabhyadavprt.com">
@@ -353,7 +331,7 @@ Databases
 
 <br><br>
 
-Building. Learning. Experimenting. Optimizing.
+**Learning. Building. Experimenting. **
 
 </div>
 
