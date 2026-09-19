@@ -1,20 +1,66 @@
-<h1 align="center">Hi 👋, I'm Rishabh Yadav</h1>
-<h3 align="center">A passionate developer from India</h3>
+<div align="center">
 
-- 🔭 I’m currently working on **Compiler (With a twist of LLM)**
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F0C29,50:302B63,100:24243E&height=250&section=header&text=Rishabh%20Yadav&fontSize=64&fontColor=ffffff&fontAlignY=38&desc=AI%20%2F%20ML%20%E2%80%A2%20LLMs%20%E2%80%A2%20Systems%20%26%20Backend%20Engineering&descAlignY=63&descSize=18&animation=fadeIn" width="100%"/>
 
-- 👨‍💻 All of my projects are available at [https://rishabh-yadav0.github.io/rishah.github.io/](https://rishabh-yadav0.github.io/rishah.github.io/)
+<br>
 
-- 📫 How to reach me **rishabhyadav86851@gmail.com**
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=21&duration=3000&pause=1200&color=A78BFA&center=true&vCenter=true&width=850&lines=Hello+World%2C+I'm+Rishabh+Yadav;Building+LLMs+from+Scratch;Engineering+High-Performance+AI+Systems;Exploring+Systems+%26+Machine+Learning;Learning+by+Building" />
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/rishabh-yadav-0a3430266/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/rishabh-yadav-0a3430266/" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/https://leetcode.com/u/mentelcoder/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/u/mentelcoder/" height="30" width="40" /></a>
-<a href="https://auth.geeksforgeeks.org/user/https://www.geeksforgeeks.org/user/rishabhya6x6l/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="https://www.geeksforgeeks.org/user/rishabhya6x6l/" height="30" width="40" /></a>
-</p>
+<br><br>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
+<a href="https://rishabh-yadav0.github.io/rishah.github.io/">
+<img src="https://img.shields.io/badge/Portfolio-7C3AED?style=for-the-badge&logo=googlechrome&logoColor=white"/>
+</a>
+&nbsp;
+<a href="https://www.linkedin.com/in/rishabh-yadav-0a3430266/">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+&nbsp;
+<a href="mailto:rishabhyadav86851@gmail.com">
+<img src="https://img.shields.io/badge/Email-18181B?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+&nbsp;
+<a href="https://github.com/Rishabh-Yadav0">
+<img src="https://img.shields.io/badge/GitHub-18181B?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=rishabh-yadav0&show_icons=true&locale=en&layout=compact" alt="rishabh-yadav0" /></p>
+<br><br>
+
+<img src="https://komarev.com/ghpvc/?username=Rishabh-Yadav0&style=flat-square&color=7C3AED&label=PROFILE+VIEWS"/>
+
+</div>
+
+---
+
+## `> whoami`
+
+```text
+Rishabh Yadav
+────────────────────────────────────────────────────────
+
+🎓  Computer Science Engineer
+
+🇮🇳  India
+
+🧠  AI / ML
+    ├── Large Language Models
+    ├── Transformers
+    ├── Deep Learning
+    ├── Computer Vision
+    └── Model Training & Evaluation
+
+⚙️  Systems & Backend
+    ├── C / C++
+    ├── Multithreading & Concurrency
+    ├── High-Performance Inference
+    ├── Backend Engineering
+    └── Distributed Computing
+
+🔬  Current Focus
+    ├── LLM Internals
+    ├── AI Inference Systems
+    ├── Systems Programming
+    └── Compiler + LLM Systems
+
+🚀  Approach
+    Understand the fundamentals → Build → Benchmark → Iterate
